@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm just a kid trying to make some cool programs. Feel free to check them out!
+
+
 <!--
 **KaptenMel/KaptenMel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
