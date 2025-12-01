@@ -10,7 +10,8 @@ Here are some things about me! :)
 
 ## Thank you for checking out my profile! :3
 
-https://media1.tenor.com/m/_WZy7E7hoTcAAAAd/cat-smile.gif
+![cat-smile](https://github.com/user-attachments/assets/c14f3a24-eaf9-4846-b2ca-4725938395c1)
+
 <!--
 **KaptenMel/KaptenMel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
